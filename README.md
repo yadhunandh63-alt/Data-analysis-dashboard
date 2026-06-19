@@ -11,6 +11,8 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 - Average Rating: The average customer rating for items sold. 
 ## Dashboard
 <img width="1279" height="724" alt="Screenshot 2026-06-19 165530" src="https://github.com/user-attachments/assets/d4f589b7-1d88-49ea-ab1c-9204ab1c82a2" />
+
+
 ## Business Requirements
 Total Sales by Fat Content:
 1.	Objective: Analyze the impact of fat content on total sales.
