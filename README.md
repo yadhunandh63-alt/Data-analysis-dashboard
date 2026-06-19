@@ -4,3 +4,8 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ## Dataset used
 - <a href="https://github.com/yadhunandh63-alt/Data-analysis-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
+##  KPIs Requirements
+- Total Sales: The overall revenue generated from all items sold.
+- Average Sales: The average revenue per sale.
+- Number of Items: The total count of different items sold.
+- Average Rating: The average customer rating for items sold. 
